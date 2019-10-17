@@ -1,4 +1,4 @@
-//By VIVEK @2017                      `
+//By Ranjan                   `
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
