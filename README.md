@@ -1,4 +1,4 @@
-# Amarnath Yatra :gift_heart:
+# Amarnath Yatra :gift_heart: :+1:
 Summer project for beginner
 Given PROJECT.C c program for Amarath yatra .It's a Log Entry.
 Run on turbo C++... IDE
